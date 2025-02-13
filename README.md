@@ -97,12 +97,8 @@ Want to contribute? Fork the repo, create a new branch, and submit a **Pull Requ
 
 ## 💎 Contact
 Developed by **Rishi Ramesh**  
-<<<<<<< HEAD
 🔗 LinkedIn: [linkedin.com/in/rishiramesh](#)   
 =======
-🔗 LinkedIn: [linkedin.com/in/rishiramesh](#)  
->>>>>>> 1aff92e9cce65bd6ef81f7f568b995257f22a454
----
 
 ## ❤️ A Note on Mental Health
 > "If you're struggling, please know that help is available. You're not alone, and your feelings are valid. Whether it's a conversation with this AI, a trusted friend, or a professional therapist—your mental health matters."
