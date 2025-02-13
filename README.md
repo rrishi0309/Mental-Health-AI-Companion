@@ -7,6 +7,12 @@ The **Mental Health AI Companion** is an **AI-powered chatbot** designed to prov
 
 This chatbot integrates **Cognitive Behavioral Therapy (CBT), mindfulness techniques, and social support theory** to provide personalized and encouraging responses. By leveraging **GPT-4o** and a structured mental health framework, it acts as a **compassionate first point of contact** for individuals who might need someone to talk to.
 
+Additionally, this chatbot utilizes **Retrieval-Augmented Generation (RAG)** techniques, allowing it to pull relevant information from trusted **mental health datasets**. It has been trained and fine-tuned using:
+- [Mental Health Conversational Data (Kaggle)](https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data) – A dataset containing basic conversations, mental health FAQs, classical therapy dialogues, and general advice for individuals suffering from anxiety and depression.
+- [Mental Health Counseling Conversations (Hugging Face)](https://huggingface.co/datasets/Amod/mental_health_counseling_conversations) – A dataset comprising expert psychologist responses to mental health-related queries, helping the AI generate professional and empathetic responses.
+
+By leveraging these datasets, the AI can provide **context-aware, intent-driven interactions** that closely resemble real therapeutic conversations.
+
 ---
 
 ## 🌱 **Why Early Intervention Matters**
@@ -24,6 +30,7 @@ This chatbot integrates **Cognitive Behavioral Therapy (CBT), mindfulness techni
 ✅ **Empathetic Responses** – AI is trained to provide **compassionate, calming, and engaging** conversations.  
 ✅ **Personalized Experience** – The bot **remembers user context within a session** for deeper engagement.  
 ✅ **Accessible & Always Available** – Users can talk anytime, without barriers.  
+✅ **RAG-Based Retrieval** – Fetches relevant responses from **mental health datasets** for improved contextual accuracy.
 
 ---
 
@@ -32,6 +39,7 @@ This chatbot integrates **Cognitive Behavioral Therapy (CBT), mindfulness techni
 - **GPT-4o** – AI language model for intelligent responses  
 - **PostgreSQL / MySQL** – For securely storing **anonymized chat history**  
 - **JavaScript (JS)** – Custom Retool logic for database interactions  
+- **Retrieval-Augmented Generation (RAG)** – Used to enhance chatbot responses with expert-verified mental health datasets.
 
 ---
 
@@ -71,15 +79,10 @@ LICENSE         # Open-source license file
 ---
 
 ## 📸 Screenshots
-### Chat Interface  
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
-
-### Retool App Editor  
-![Retool App Editor](images/screenshot2.png)  
-
 ---
 
 ## 📝 License
@@ -94,7 +97,11 @@ Want to contribute? Fork the repo, create a new branch, and submit a **Pull Requ
 
 ## 💎 Contact
 Developed by **Rishi Ramesh**  
+<<<<<<< HEAD
+🔗 LinkedIn: [linkedin.com/in/rishiramesh](#)   
+=======
 🔗 LinkedIn: [linkedin.com/in/rishiramesh](#)  
+>>>>>>> 1aff92e9cce65bd6ef81f7f568b995257f22a454
 ---
 
 ## ❤️ A Note on Mental Health
