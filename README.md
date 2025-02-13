@@ -95,8 +95,6 @@ Want to contribute? Fork the repo, create a new branch, and submit a **Pull Requ
 ## 💎 Contact
 Developed by **Rishi Ramesh**  
 🔗 LinkedIn: [linkedin.com/in/rishiramesh](#)  
-✉️ Email: [your.email@example.com](#)  
-
 ---
 
 ## ❤️ A Note on Mental Health
