@@ -64,8 +64,6 @@ This chatbot integrates **Cognitive Behavioral Therapy (CBT), mindfulness techni
 ```
 📂 apps/        # Exported Retool JSON files
 📂 db/          # SQL schema for chat history
-📂 images/      # UI screenshots
-📂 docs/        # Additional documentation
 README.md       # Main documentation file
 LICENSE         # Open-source license file
 ```
@@ -74,7 +72,10 @@ LICENSE         # Open-source license file
 
 ## 📸 Screenshots
 ### Chat Interface  
-![Mental Health AI Bot](images/screenshot1.png)  
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
 
 ### Retool App Editor  
 ![Retool App Editor](images/screenshot2.png)  
