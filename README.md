@@ -15,6 +15,17 @@ By leveraging these datasets, the AI can provide **context-aware, intent-driven 
 
 ---
 
+## 🎙 OpenAI Whisper & TTS: **Speech-to-Text & Text-to-Speech**
+
+🔊 **One of the key features of this AI companion is its advanced speech interaction capabilities**:
+- **🎤 OpenAI Whisper (Speech-to-Text - STT):** Converts spoken words into text, allowing users to communicate naturally without typing.
+- **🗣 OpenAI TTS (Text-to-Speech - TTS):** Provides **human-like voice responses**, making mental health support more engaging and accessible.
+- **🦾 Hands-Free Conversations:** Users can seamlessly talk and listen to AI responses without needing to read or type, making it ideal for accessibility.
+
+With these features, the chatbot ensures that **mental health support is not just readable but audible**, enhancing **engagement, accessibility, and inclusivity** for all users.
+
+---
+
 ## 🌱 **Why Early Intervention Matters**
 - **Prevention Over Cure** – Addressing mental health concerns early can **prevent worsening conditions**.
 - **Reducing Stigma** – Many individuals hesitate to seek professional help. AI provides a **safe, anonymous environment** to encourage conversations.
@@ -30,7 +41,8 @@ By leveraging these datasets, the AI can provide **context-aware, intent-driven 
 ✅ **Empathetic Responses** – AI is trained to provide **compassionate, calming, and engaging** conversations.  
 ✅ **Personalized Experience** – The bot **remembers user context within a session** for deeper engagement.  
 ✅ **Accessible & Always Available** – Users can talk anytime, without barriers.  
-✅ **RAG-Based Retrieval** – Fetches relevant responses from **mental health datasets** for improved contextual accuracy.
+✅ **RAG-Based Retrieval** – Fetches relevant responses from **mental health datasets** for improved contextual accuracy.  
+✅ **🎙 OpenAI Whisper & TTS Support** – Enables **seamless voice-based interactions** for hands-free, immersive conversations.
 
 ---
 
@@ -39,7 +51,8 @@ By leveraging these datasets, the AI can provide **context-aware, intent-driven 
 - **GPT-4o** – AI language model for intelligent responses  
 - **PostgreSQL / MySQL** – For securely storing **anonymized chat history**  
 - **JavaScript (JS)** – Custom Retool logic for database interactions  
-- **Retrieval-Augmented Generation (RAG)** – Used to enhance chatbot responses with expert-verified mental health datasets.
+- **Retrieval-Augmented Generation (RAG)** – Used to enhance chatbot responses with expert-verified mental health datasets.  
+- **OpenAI Whisper (STT) & OpenAI TTS** – Powers **speech-to-text and text-to-speech interactions**.
 
 ---
 
@@ -83,6 +96,7 @@ LICENSE         # Open-source license file
 ![image](https://github.com/user-attachments/assets/7fc3be2e-7df4-41cb-b685-7b1aa9a9a6c5)
 ![image](https://github.com/user-attachments/assets/2161fa3e-0a60-44a3-a06a-0485d27de0df)
 ![image](https://github.com/user-attachments/assets/5e9988a3-0381-4b1b-a8f7-dd6f1f2010d3)
+
 ---
 
 ## 📝 License
@@ -97,9 +111,9 @@ Want to contribute? Fork the repo, create a new branch, and submit a **Pull Requ
 
 ## 💎 Contact
 ### Developed by **Rishi Ramesh**  
-### 🔗 LinkedIn: https://www.linkedin.com/in/rishi0309/  
+### 🔗 LinkedIn: [Rishi Ramesh](https://www.linkedin.com/in/rishi0309/)  
+
 ---
 
 ## ❤️ A Note on Mental Health
 > "If you're struggling, please know that help is available. You're not alone, and your feelings are valid. Whether it's a conversation with this AI, a trusted friend, or a professional therapist—your mental health matters."
-
