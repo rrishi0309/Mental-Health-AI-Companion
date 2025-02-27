@@ -80,9 +80,9 @@ LICENSE         # Open-source license file
 
 ## 📸 Screenshots
 ![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/7fc3be2e-7df4-41cb-b685-7b1aa9a9a6c5)
+![image](https://github.com/user-attachments/assets/2161fa3e-0a60-44a3-a06a-0485d27de0df)
+![image](https://github.com/user-attachments/assets/5e9988a3-0381-4b1b-a8f7-dd6f1f2010d3)
 ---
 
 ## 📝 License
