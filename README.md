@@ -1,4 +1,4 @@
-# 🧠 Mental Health AI Companion (Powered by AI & Retool)
+# 🧠 Mental Health AI Companion
 
 > **"Early intervention in mental health can change lives. This AI chatbot provides a safe, anonymous, and accessible space for users to express their emotions and receive supportive guidance."**
 
